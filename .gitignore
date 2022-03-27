@@ -8,6 +8,9 @@ datasets/heart/task2/Train/
 datasets/heart/task2/*.csv
 models/*.pth
 models/*.pkl
+models/ckpt/*.zip
+models/ckpt/*.pkl
+models/ckpt/*.pth
 outputs/
 outputs/results/*.png
 outputs/results/*.csv
